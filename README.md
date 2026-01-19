@@ -151,6 +151,6 @@ No frameworks were used intentionally to demonstrate strong fundamentals.
 
 ## 👤 Author
 
-Milton
+**Milton**
 
 Computer Science Graduate | Aspiring Software Engineer
