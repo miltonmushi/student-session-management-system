@@ -79,7 +79,6 @@ No frameworks were used intentionally to demonstrate strong fundamentals.
 
 ## 📂 Project Structure
 
-.
 ├── index.html  
 ├── css/  
 │   └── styles.css  
@@ -154,5 +153,4 @@ No frameworks were used intentionally to demonstrate strong fundamentals.
 
 Milton
 
-Computer Science Graduate
-Aspiring Software Engineer
+Computer Science Graduate | Aspiring Software Engineer
