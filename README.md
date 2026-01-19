@@ -154,3 +154,10 @@ No frameworks were used intentionally to demonstrate strong fundamentals.
 **Milton**
 
 Computer Science Graduate | Aspiring Software Engineer
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
